@@ -16,7 +16,7 @@ let botsCache: BotConfig[] = [
   {
     id: "default-bot-1",
     name: "Main Bot",
-    token: "7990262666:AAEE8hyFq387uaFLKFbkta7vwy8HMWYZliE",
+    token: "8563530421:AAELMr1bcP6nc09sIBFjG8Ca-F1UUAqWJdg",
     chatId: "6233384461",
     webhookUrl: "",
     status: "active",
