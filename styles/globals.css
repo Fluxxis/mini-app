@@ -123,25 +123,3 @@
     @apply bg-background text-foreground;
   }
 }
-
-
-/* === Force bold UI for Telegram WebApp === */
-html, body {
-  font-weight: 700;
-}
-
-button, input, select, textarea {
-  font-weight: 700;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-weight: 800;
-}
-
-/* === iOS / System UI Font for Telegram WebApp === */
-html, body {
-  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text",
-               "SF Pro Display", system-ui, Roboto, Arial, sans-serif;
-  font-weight: 700;
-  -webkit-text-size-adjust: 100%;
-}
